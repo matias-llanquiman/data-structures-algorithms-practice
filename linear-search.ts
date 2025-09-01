@@ -22,6 +22,6 @@ async function linearSearch(list: string, value: number): Promise<string> {
 }
 
 async function main() {
-  console.log(await linearSearch("./numbers.csv", 6066));
+  console.log(await linearSearch("./dataset/numbers.csv", 6066));
 }
 main();
