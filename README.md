@@ -1,7 +1,7 @@
-# data-structures-algorithms-practice
+# Data Structures & Algorithms Practice
 
-Personal collection of structures and algorithms practices to improve my logic and quality code
+Personal collection of data structures and algorithm implementations to improve logic and code quality.
 
-| Name              | Description                                                             |
-| ----------------- | ----------------------------------------------------------------------- |
-| replace_passwords | Simple script to find and replace an array of password in specific file |
+| Name             | Description                                                      |
+| ---------------- | ---------------------------------------------------------------- |
+| linear-search.ts | Sequential search algorithm to find a value in a list of numbers |
